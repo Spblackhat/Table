@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Table</title>
+        <style>
+            *{
+                margin:0;
+                padding: 0;
+            }
+        </style>
+    </head>
+
+<body>
+    <table border="4px" height ="50%" width="50%">
+        <tr>
+            <th>Name</th>
+            <th>class</th>
+            <th>roll_no</th>
+        </tr>
+        <tr>
+            <td>Sandeep</td>
+            <td>bca</td>
+            <td>69</td>
+
+        </tr>
+        <tr>
+            <td>ashwani</td>
+            <td>bca</td>
+            <td>35</td>
+
+        </tr>
+        <tr>
+            <td>ram</td>
+            <td>bca</td>
+            <td>39</td>
+
+        </tr>
+    </table>
+</body>
+
+</html>
